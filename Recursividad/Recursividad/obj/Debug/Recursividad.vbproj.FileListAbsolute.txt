@@ -1,0 +1,75 @@
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\bin\Debug\Recursividad.xml
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.vbprojResolveAssemblyReference.cache
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.Resources.resources
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.Principal.resources
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.vbproj.GenerateResource.Cache
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.xml
+c:\users\laboratorioleyda.desktop-eequec5\documents\visual studio 2015\Projects\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Recursividad.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.vbprojResolveAssemblyReference.cache
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Resources.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Principal.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.vbproj.GenerateResource.Cache
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.LecturaEscritura.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.exe.licenses
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Shared.v12.1.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.v12.1.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\MetroFramework.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Shared.v12.1.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.v12.1.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v12.1.dll
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v12.1.xml
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Fibonacci.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Suma.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Exponentes.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Combinaciones.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Busqueda.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Euclides.resources
+C:\Users\Prueba\Desktop\Recursividad\Recursividad\obj\Debug\Recursividad.Recurrencia.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Shared.v12.1.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v12.1.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.v12.1.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Shared.v12.1.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v12.1.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\bin\Debug\Infragistics2.Win.v12.1.xml
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Busqueda.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Combinaciones.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Euclides.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Exponentes.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.LecturaEscritura.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Fibonacci.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Recurrencia.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Suma.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Resources.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Principal.resources
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.exe.licenses

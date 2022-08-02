@@ -1,0 +1,46 @@
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Arboles.exe.config
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Arboles.exe
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Arboles.pdb
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.exe
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.pdb
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\MetroFramework.Design.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\MetroFramework.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\MetroFramework.Fonts.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.Arboles.resources
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Shared.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Shared.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arboles\Arboles\obj\Debug\Arboles.exe.licenses
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Arboles.exe.config
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.exe
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.pdb
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Arboles.exe
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Shared.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\MetroFramework.Design.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\MetroFramework.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\MetroFramework.Fonts.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Shared.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Infragistics2.Win.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.Arboles.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\obj\Debug\Arboles.exe.licenses
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arboles\Arboles\bin\Debug\Arboles.pdb

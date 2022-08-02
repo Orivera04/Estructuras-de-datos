@@ -1,0 +1,73 @@
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.vbprojResolveAssemblyReference.cache
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Resources.resources
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.vbproj.GenerateResource.Cache
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Principal.resources
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Shared.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.v12.1.dll
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Shared.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.v12.1.xml
+c:\users\prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.exe.licenses
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\MetroFramework.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.LecturaEscritura.resources
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Documents.IO.v12.1.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinFormattedText.WordWriter.v12.1.dll
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Documents.IO.v12.1.xml
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinFormattedText.WordWriter.v12.1.xml
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Promedio.resources
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Matriz.resources
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Identidad.resources
+C:\Users\Prueba\documents\visual studio 2015\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.Suma_De_Matrices.resources
+F:\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+F:\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+F:\Arreglos\Arreglos\obj\Debug\Arreglos.xml
+F:\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Arreglos.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Documents.IO.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Shared.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinFormattedText.WordWriter.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\MetroFramework.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\MetroFramework.Fonts.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Documents.IO.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Shared.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinFormattedText.WordWriter.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.vbprojResolveAssemblyReference.cache
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Identidad.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.LecturaEscritura.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Matriz.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Matriz_Principal.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Principal.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Promedio.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Suma_De_Matrices.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Resources.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Principal_Menu.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.vbproj.GenerateResource.Cache
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.exe.licenses
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Ordenar.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinGrid.v12.1.dll
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\bin\Debug\Infragistics2.Win.UltraWinGrid.v12.1.xml
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Busqueda.resources
+E:\UNI\2016\Segundo Semestre\Algoritmización Y Estructuras De Datos\Programas\Arreglos\Arreglos\obj\Debug\Arreglos.Arreglo_Eliminación.resources
